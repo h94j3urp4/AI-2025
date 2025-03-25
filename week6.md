@@ -2,6 +2,15 @@
 
 腳色庫:https://github.com/f/awesome-chatgpt-prompts
 
+## **D. 綜合實戰**
+
+1.生成台北大學心湖的圖片![image](https://github.com/user-attachments/assets/fac35038-08b9-4b74-a984-682ccdf0fd81)
+2.愛心湖，湖面直徑60公尺，北方與南方有瞭望台，東方有三階大塊石階並且有許多鴨子與鵝，湖周圍有鴿子群，北方瞭望台後方有一片樹林，樹林後方有綿延的山，西方是一座小拱橋。![image](https://github.com/user-attachments/assets/7b4686b5-0648-49c1-bd2a-0417f2314c2c)
+3.是現代寫實風格的，將瞭望台改成大平台![image](https://github.com/user-attachments/assets/dcaf94e4-69e0-4640-bba0-033aaa3abaa2)
+4.面沒有建築物，湖水碧綠，從東方岸上平視視角呈現![image](https://github.com/user-attachments/assets/49b43b3c-c17f-4911-ab61-f1c4938af436)
+
+
+
 **是在使用 ChatGPT 時，透過指定模型扮演特定角色（例如：專業顧問、語言教練、技術專家等），讓其以該角色的視角來回答問題或執行任務的方法。透過角色分配，使用者可以明確引導 ChatGPT 的回答方向，確保回應更符合使用情境和需求。**
 
 ### **角色分配的特殊優勢?**
