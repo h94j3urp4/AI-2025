@@ -32,3 +32,29 @@
 文字：「我的夢想，換了種方式繼續燃燒。」
 ![image](https://github.com/user-attachments/assets/57ddb329-ea8e-4565-9ed6-904efc38229a)
 
+## Lab 1：生成未來城市風格圖像
+
+- **目標**：學會使用 Prompt 輸入與風格選擇功能
+- **任務**：輸入 prompt「一幅3D卡通風格的插畫，呈現出溫馨又富冒險感的場景： 主角是一隻可愛的小老鼠，牠有著圓圓的大耳朵、亮晶晶的眼睛，神情充滿期待與勇氣。 小老鼠站在一棵大橡樹前，樹洞是牠的家，畫面左邊有樹幹與洞口。 小老鼠揹著一個用綠葉做的小包袱，裡面裝著水壺與起司，顯然準備踏上冒險。 背景是陽光明媚的農場風景，有白色木欄、草地與遠方的紅色穀倉，充滿田園氣息。 地面上散落著幾片橙色的秋天落葉，增添畫面溫度與故事感。」選擇 3D render + pastel colors，生成圖像。
+![image](https://github.com/user-attachments/assets/c8f3fc01-8c30-49b7-8678-d1a8b50966cf)
+
+### Lab 2：風格對比分析
+
+- **目標**：理解風格在視覺中的應用差異
+- **任務**：輸入「a magical forest with glowing mushrooms」，分別選擇「Cyberpunk」與「Ghibli」風格，產生兩張圖並比較。
+- **老師指標**：學生能明確指出風格對構圖與色彩的影響。
+![image](https://github.com/user-attachments/assets/8e4755bf-8bfd-4170-811a-427fabffdf8f)
+![image](https://github.com/user-attachments/assets/a58cde63-dfa5-49f9-a631-d81ee5bef60b)
+
+### Lab 3：敘事圖像創作
+
+- **目標**：根據腳本產出圖像素材
+- **任務**：套用自己的腳本，用 Image 工具產出故事封面。
+腳本:阿哲穿著12號球衣，單手握球站在球場中央。
+    光線從背後打下來，影子拉長，彷彿前方是未知的道路。
+    他的表情堅毅，左腳纏著繃帶。
+    遠方隱約可見NBA標誌與小朋友在打球的模糊背景，象徵過去與未來的交錯。
+  ![image](https://github.com/user-attachments/assets/325592fc-c6d4-4eb5-922e-7259dadaf637)
+
+
+
