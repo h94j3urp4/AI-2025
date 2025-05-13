@@ -56,5 +56,11 @@
     遠方隱約可見NBA標誌與小朋友在打球的模糊背景，象徵過去與未來的交錯。
   ![image](https://github.com/user-attachments/assets/325592fc-c6d4-4eb5-922e-7259dadaf637)
 
+### Lab 4：連續情節圖組設計
+
+- **目標**：建立敘事連貫性圖組
+- **任務**：以自己的6格故事腳本為題，製作6連拍風格圖像
+![image](https://github.com/user-attachments/assets/e819229c-8152-483f-b589-37bc6d8261a7)
+
 
 
