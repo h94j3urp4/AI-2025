@@ -60,7 +60,8 @@
 
 - **目標**：建立敘事連貫性圖組
 - **任務**：以自己的6格故事腳本為題，製作6連拍風格圖像
-[![image](https://github.com/user-attachments/assets/e819229c-8152-483f-b589-37bc6d8261a7)](https://www.recraft.ai/project/b6cc842f-3875-4018-aa1e-f4815b05fe76?moveViewportOnOpen=dwgv5_7wma6XpkoUXR_Fv)
+![image](https://github.com/user-attachments/assets/4891ce4b-1f96-411e-8559-f4c6db273c45)
+
 
 
 
