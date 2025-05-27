@@ -1,3 +1,18 @@
-* Google Colab *
-* 
+# Google Colab
+## Example:
+### %%bash
+告訴 Jupyter Notebook 接下來的區塊是用 Bash（終端機指令）執行，而不是 Python。
+### mkdir -p demo
+建立一個叫做 demo 的資料夾。
+-p 表示如果資料夾已存在，不會報錯。
+### ls -al
+顯示目前目錄下的所有檔案與資料夾（包括隱藏檔案），詳細資訊（如權限、大小、修改時間等）。
+### cd demo
+進入剛剛建立的 demo 資料夾。
+### pwd
+印出目前的路徑（Print Working Directory），也就是你現在所在的資料夾。
+##touch TA2025.txt
+建立一個空的檔案，檔名是 TA2025.txt。
+### ls -al
+再次列出目前目錄下的所有檔案與資料夾，這次會顯示 TA2025.txt。
   
