@@ -16,3 +16,60 @@
 ### ls -al
 再次列出目前目錄下的所有檔案與資料夾，這次會顯示 TA2025.txt。
   
+# 五個挑戰
+## 1.
+for i in range(10, 1, -2):
+    print('test:', i)
+    
+PI13IB5: please write a program to calculate 1+2+3+...+10 = 55
+sum = 0
+for i in range(1, 11):
+    sum += i
+print('1+2+3+...+10 = 55, and your result?', sum)
+
+## 2.
+P0409E, Challenge
+
+for i in range(1, 11):      
+    print(i, 'T' * i)      
+
+for i in range(10, 0, -1):  
+    print(i, '+' * i)       
+
+## 3.
+stage = input('Input stage number: ')
+ss = int(stage)
+
+for i in range(1, ss + 1):
+    print(i, 'T' * i)
+
+for i in range(ss, 0, -1):
+    print(i, '+' * i)
+
+## 4.
+Challenge 3
+for i in range(1, 10):
+    print("9 X %d = %d" % (i, 9 * i))
+Challenge 4
+for i in range(8, 9):  # 這樣會只跑 i = 8
+    for j in range(1, 4):  # j 從 1 到 3
+        print("%d X %d = %d" % (i + 1, j, (i + 1) * j))
+
+## 5.
+YourName = 'Grace'
+
+CheckName = input('Input Your Name:')
+
+if CheckName == YourName:
+    print('You are a right user!!')
+else:
+    print('User name is NOT found!')
+YourPassword = 'hello2024'
+
+CheckPassword = input('Input Your Password:')
+
+if CheckPassword == YourPassword:
+    print('Correct password!')
+else:
+    print('Wrong password!')
+
